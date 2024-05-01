@@ -1,5 +1,5 @@
 # dio-lab-generative-OpenAI
-🖥️ O último desafio da DIO foi sobre IA Generativa, e como o assunto era Microsoft Azure, o foco foi sobre a questão do Azure AI Studio, do qual permite a criação de aplicativos de Inteligência Artificial, treinos de dados, acessar modelos de IA, etc. Além disso, foi mostrado os outros modelos de OpenAI que o Azure dá suporte, como o GPT-4, GPT-3.5 e DALL-E. O Microsoft Copilot faz parte deste ecossistema como uma IA Generativa, que utiliza insights e linguagem natural a fim de trazer as melhores repostas. 
+🖥️ O último desafio da DIO foi sobre IA Generativa, e como o assunto era Microsoft Azure, o foco foi sobre a questão do Azure AI Studio, do qual permite a criação de aplicativos de Inteligência Artificial, treinos de dados, acessar modelos de IA, etc. Além disso, foi mostrado os outros modelos de AI que o Azure dá suporte, como o GPT-4, GPT-3.5 e DALL-E. O Microsoft Copilot faz parte deste ecossistema como uma IA Generativa, que utiliza insights e linguagem natural a fim de trazer as melhores repostas. 
 <br>
 <br>
 <br>
